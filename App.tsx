@@ -16,6 +16,6 @@ export default class App extends Component {
 const styles = StyleSheet.create({
   space: {
     padding: 10,
-    color: '#f5f5f5',
+    color: '#000000',
   },
 });
